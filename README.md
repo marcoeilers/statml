@@ -1,4 +1,4 @@
 statml
 ======
 
-Group repository for Statistical Methods for Machine Learning @ DIKU
+Statistical Methods for Machine Learning 2012 @ DIKU
