@@ -1,0 +1,8 @@
+1. Normalized Histogram Plot (make sure of what)
+2. PCA, adding Variances for components, plots
+3. k-means, plot
+4. discussion, google some things
+5. LDA for arbitrary data dimensions, kNN for arbitrary dimensions, errors
+6. jakoolas heuristic, grid search
+7. find out what this is about, ask thomas, discussion board
+8. not sure if 1 or 3 does not mean 2, 4 is not closer to 5 than 1
